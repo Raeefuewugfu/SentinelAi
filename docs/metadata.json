@@ -1,0 +1,8 @@
+{
+  "name": "Sentinel AI Deep Website Investigator",
+  "description": "An interactive AI agent that performs a deep investigation of website URLs, including corporate background checks, and communicates its findings in real-time within a chat interface.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
